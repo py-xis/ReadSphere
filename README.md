@@ -1,5 +1,6 @@
 #### Directory Structure
 
+```
 .
 ├── README.md
 ├── client
@@ -36,6 +37,7 @@
         ├── lock.c
         ├── server.c
         └── tokenizeString.c
+```
 
 ### Make sure to change the paths of the user.dat and book.dat files in authentication.c and bookManagement.c in the server directory.
 ### Make sure that there are no file other than .c file while compiling in the src directories of either the client or the server.
